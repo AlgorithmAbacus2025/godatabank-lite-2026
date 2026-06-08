@@ -1,0 +1,24 @@
+{
+  "version": "0.1",
+  "policy": {
+    "official_institutions_only": true,
+    "api_required": true,
+    "english_required": true
+  },
+  "sources": {
+    "world_bank": {
+      "name": "World Bank",
+      "scope": "International",
+      "status": "planned",
+      "api": true,
+      "categories": ["economy", "employment", "education", "health"]
+    },
+    "ons": {
+      "name": "Office for National Statistics",
+      "scope": "United Kingdom",
+      "status": "planned",
+      "api": true,
+      "categories": ["population", "economy", "employment", "migration"]
+    }
+  }
+}
