@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{report_title}} | GoDataBank</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.5;
+      color: #172033;
+      background: #ffffff;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 32px 20px 48px;
+    }
+
+    header {
+      border-bottom: 2px solid #172033;
+      margin-bottom: 28px;
+      padding-bottom: 18px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      line-height: 1.2;
+    }
+
+    .metadata,
+    .notice,
+    .citation {
+      border: 1px solid #c9d1dc;
+      padding: 14px;
+      margin: 16px 0;
+    }
+
+    .metadata dl,
+    .citation dl {
+      display: grid;
+      grid-template-columns: minmax(140px, 220px) 1fr;
+      gap: 8px 16px;
+      margin: 0;
+    }
+
+    dt {
+      font-weight: 700;
+    }
+
+    dd {
+      margin: 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+    }
+
+    th,
+    td {
+      border: 1px solid #c9d1dc;
+      padding: 10px;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #eef2f7;
+    }
+
+    .status {
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="status">Official data. Verified evidence. Searchable insights.</p>
+      <h1>{{report_title}}</h1>
+      <p>{{report_summary_statement}}</p>
+      <p>Truth is retrieved, not generated.</p>
+    </header>
+
+    <section class="metadata" aria-labelledby="report-metadata-heading">
+      <h2 id="report-metadata-heading">Report Metadata</h2>
+      <dl>
+        <dt>Report ID</dt>
+        <dd>{{report_id}}</dd>
+        <dt>Publication Date</dt>
+        <dd>{{publication_date}}</dd>
+        <dt>Retrieval Window</dt>
+        <dd>{{retrieval_window_utc}}</dd>
+        <dt>Verification Status</dt>
+        <dd>{{verification_status}}</dd>
+        <dt>Source Standard</dt>
+        <dd>Official institutions only, with public API or approved machine-readable feed access.</dd>
+      </dl>
+    </section>
+
+    <section class="notice" aria-labelledby="scope-heading">
+      <h2 id="scope-heading">Scope</h2>
+      <p>This report may use only admitted official institutional sources with English content, public API or approved machine-readable feed access, and complete citation metadata.</p>
+      <p>No news organisations, commercial data vendors, think tanks, blogs, social media, user-generated content, unofficial aggregators, or unsourced claims are permitted.</p>
+      <p>No speculation, no opinion, and no publication without validation. No source match means no output.</p>
+    </section>
+
+    <section aria-labelledby="findings-heading">
+      <h2 id="findings-heading">Findings</h2>
+      <p>{{sourced_findings}}</p>
+    </section>
+
+    <section aria-labelledby="evidence-table-heading">
+      <h2 id="evidence-table-heading">Evidence Table</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Claim or Metric</th>
+            <th>Value</th>
+            <th>Unit</th>
+            <th>Time Period</th>
+            <th>Admitted Source ID</th>
+            <th>Citation Reference</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{{claim_or_metric}}</td>
+            <td>{{value}}</td>
+            <td>{{unit}}</td>
+            <td>{{time_period}}</td>
+            <td>{{source_id}}</td>
+            <td>{{citation_reference}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section aria-labelledby="methods-heading">
+      <h2 id="methods-heading">Methods and Limitations</h2>
+      <p>{{methods_and_limitations}}</p>
+      <p>Derived figures must state their input values, units, formulas, time periods, and citations.</p>
+    </section>
+
+    <section aria-labelledby="citations-heading">
+      <h2 id="citations-heading">Citations</h2>
+      <article class="citation">
+        <h3>{{citation_reference}}</h3>
+        <dl>
+          <dt>Issuing Institution</dt>
+          <dd>{{issuing_institution}}</dd>
+          <dt>Institution Type</dt>
+          <dd>{{institution_type}}</dd>
+          <dt>Source Title</dt>
+          <dd>{{source_title}}</dd>
+          <dt>Official Source URL</dt>
+          <dd>{{official_source_url}}</dd>
+          <dt>API or Feed URL</dt>
+          <dd>{{machine_readable_url}}</dd>
+          <dt>Publication or Version Date</dt>
+          <dd>{{publication_or_version_date}}</dd>
+          <dt>Retrieved At</dt>
+          <dd>{{retrieved_at_utc}}</dd>
+          <dt>Endpoint, Table, Field, or Query</dt>
+          <dd>{{specific_reference}}</dd>
+          <dt>Language</dt>
+          <dd>English</dd>
+          <dt>Verification Status</dt>
+          <dd>{{source_verification_status}}</dd>
+        </dl>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

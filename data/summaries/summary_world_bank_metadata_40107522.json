@@ -1,0 +1,32 @@
+{
+  "citation_block": {
+    "classification_status": "CLASSIFIED",
+    "classified_at_utc": "2026-06-08T06:57:44Z",
+    "document_id": "40107522",
+    "institution": "World Bank",
+    "publication_date": "2026-06-08T04:00:00Z",
+    "source_url": "https://documents.worldbank.org/curated/en/099060726202511445",
+    "title": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan"
+  },
+  "document_id": "40107522",
+  "generated_at_utc": "2026-06-08T06:58:28Z",
+  "headline": "World Bank metadata classified under Banking",
+  "institution": "World Bank",
+  "key_findings": [
+    "Institution: World Bank",
+    "Region: Asia-Pacific",
+    "Sector: Finance",
+    "Topic: Banking",
+    "Document ID: 40107522",
+    "Publication date: 2026-06-08T04:00:00Z"
+  ],
+  "publication_date": "2026-06-08T04:00:00Z",
+  "region": "Asia-Pacific",
+  "schema_version": "summary.v0.1",
+  "sector": "Finance",
+  "source_url": "https://documents.worldbank.org/curated/en/099060726202511445",
+  "summary": "This classified metadata record is organised as Banking within the Finance sector for the Asia-Pacific region. The source title is: Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+  "summary_status": "GENERATED",
+  "title": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+  "topic": "Banking"
+}

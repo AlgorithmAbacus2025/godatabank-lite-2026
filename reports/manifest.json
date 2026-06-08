@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1",
+  "project": "GoDataBank",
+  "mission": "Official data. Verified evidence. Searchable insights.",
+  "core_directive": [
+    "Collect",
+    "Verify",
+    "Organise",
+    "Summarise",
+    "Publish"
+  ],
+  "truth_rule": "Truth is retrieved, not generated.",
+  "milestone": "Build Milestone 1",
+  "status": "documentation_scaffold",
+  "created_date": "2026-06-06",
+  "source_constraints": {
+    "official_institutions_only": true,
+    "public_api_or_approved_machine_readable_feed_required": true,
+    "english_content_required": true,
+    "citation_metadata_required": true,
+    "excluded_source_categories": [
+      "news_organisations",
+      "commercial_data_vendors",
+      "think_tanks",
+      "blogs",
+      "social_media",
+      "user_generated_content",
+      "advocacy_organisations",
+      "personal_sites",
+      "forums",
+      "unofficial_aggregators",
+      "unsourced_output"
+    ]
+  },
+  "publication_gate": {
+    "all_sources_admitted": true,
+    "all_claims_cited": true,
+    "all_citations_have_metadata": true,
+    "no_speculation": true,
+    "no_opinion": true,
+    "no_source_match_no_output": true,
+    "validation_required_before_publication": true,
+    "units_and_methods_required_for_numerical_outputs": true,
+    "excluded_sources_prohibited": true
+  },
+  "milestone_exclusions": {
+    "api_connectors": false,
+    "ai_summarisation_code": false,
+    "databases": false,
+    "subscription_systems": false,
+    "scope_expansion": false
+  },
+  "reports": []
+}

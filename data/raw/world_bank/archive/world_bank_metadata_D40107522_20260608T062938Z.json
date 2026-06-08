@@ -1,0 +1,31 @@
+{
+  "api_response_context": {
+    "os": 0,
+    "page": 1,
+    "rows": 1,
+    "total": 553713
+  },
+  "institution": "World Bank",
+  "language": "English",
+  "publication_date": "2026-06-08T04:00:00Z",
+  "raw_record": {
+    "display_title": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+    "docdt": "2026-06-08T04:00:00Z",
+    "docna": {
+      "0": {
+        "docna": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan"
+      }
+    },
+    "guid": "099060726202511445",
+    "id": "40107522",
+    "lang": "English",
+    "pdfurl": "https://documents.worldbank.org/curated/en/099060726202511445/pdf/P502591-d0f59436-8ead-4d21-8ee6-a251890c5998.pdf",
+    "url": "http://documents.worldbank.org/curated/en/099060726202511445"
+  },
+  "retrieved_at_utc": "2026-06-08T06:29:38Z",
+  "source_api_url": "https://search.worldbank.org/api/v3/wds?format=json&rows=1&os=0&lang_exact=English&enddate=2026-06-08&fl=display_title%2Cdocdt%2Curl%2Clang%2Cdocna%2Crepnb%2Cpdfurl",
+  "source_url": "https://documents.worldbank.org/curated/en/099060726202511445",
+  "title": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+  "world_bank_document_id": "40107522",
+  "world_bank_record_key": "D40107522"
+}

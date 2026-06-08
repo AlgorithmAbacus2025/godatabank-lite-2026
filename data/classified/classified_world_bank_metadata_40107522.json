@@ -1,0 +1,39 @@
+{
+  "classification_status": "CLASSIFIED",
+  "classified_at_utc": "2026-06-08T06:57:44Z",
+  "document_id": "40107522",
+  "institution": "World Bank",
+  "keywords": [
+    "east asia",
+    "pacific",
+    "banking",
+    "correspondent banking",
+    "east",
+    "asia",
+    "p502591",
+    "strengthening",
+    "correspondent",
+    "relationships",
+    "project",
+    "procurement",
+    "plan"
+  ],
+  "publication_date": "2026-06-08T04:00:00Z",
+  "region": "Asia-Pacific",
+  "schema_version": "abacus.v0.1",
+  "sector": "Finance",
+  "source_document_id": "40107522",
+  "source_title": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+  "source_url": "https://documents.worldbank.org/curated/en/099060726202511445",
+  "source_validated_path": "C:\\Users\\kmudh\\Documents\\GoDataBank\\data\\validated\\approved_world_bank_metadata_40107522.json",
+  "tags": [
+    "world-bank",
+    "asia-pacific",
+    "finance",
+    "banking",
+    "document-40107522",
+    "validated-metadata"
+  ],
+  "title": "Pacific 1 - EAST ASIA AND PACIFIC- P502591- Pacific Strengthening Correspondent Banking Relationships Project - Procurement Plan",
+  "topic": "Banking"
+}
