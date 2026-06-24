@@ -1,7 +1,4 @@
 {
-  "schema_version": "0.1",
-  "project": "GoDataBank",
-  "mission": "Official data. Verified evidence. Searchable insights.",
   "core_directive": [
     "Collect",
     "Verify",
@@ -9,15 +6,71 @@
     "Summarise",
     "Publish"
   ],
-  "truth_rule": "Truth is retrieved, not generated.",
-  "milestone": "Build Milestone 1",
-  "status": "documentation_scaffold",
   "created_date": "2026-06-06",
+  "milestone": "Build Milestone 1",
+  "milestone_exclusions": {
+    "ai_summarisation_code": false,
+    "api_connectors": false,
+    "databases": false,
+    "scope_expansion": false,
+    "subscription_systems": false
+  },
+  "mission": "Official data. Verified evidence. Searchable insights.",
+  "project": "GoDataBank",
+  "publication_gate": {
+    "all_citations_have_metadata": true,
+    "all_claims_cited": true,
+    "all_sources_admitted": true,
+    "excluded_sources_prohibited": true,
+    "no_opinion": true,
+    "no_source_match_no_output": true,
+    "no_speculation": true,
+    "units_and_methods_required_for_numerical_outputs": true,
+    "validation_required_before_publication": true
+  },
+  "reports": [
+    {
+      "document_id": "regional-gdp-by-year",
+      "generated_at_utc": "2026-06-08T07:37:12Z",
+      "institution": "Office for National Statistics",
+      "publication_date": "2023-05-18T00:00:00.000Z",
+      "region": "Europe",
+      "report_id": "office-for-national-statistics-regional-gdp-by-year",
+      "report_path": "reports/generated/office-for-national-statistics-regional-gdp-by-year.html",
+      "sector": "Economy",
+      "source_url": "https://api.beta.ons.gov.uk/v1/datasets/regional-gdp-by-year",
+      "status": "generated",
+      "summary_path": "data/summaries/summary_world_bank_metadata_regional-gdp-by-year.json",
+      "title": "Office for National Statistics metadata classified under Economic Growth",
+      "topic": "Economic Growth"
+    },
+    {
+      "classification_status": "CLASSIFIED",
+      "document_id": "40107522",
+      "evidence_validation_status": "APPROVED",
+      "generated_at_utc": "2026-06-24T12:24:00Z",
+      "institution": "World Bank",
+      "publication_date": "2026-06-08T04:00:00Z",
+      "region": "Asia-Pacific",
+      "report_id": "world-bank-40107522",
+      "report_path": "reports/generated/world-bank-40107522.html",
+      "retrieved_at_utc": "2026-06-08T07:36:26Z",
+      "sector": "Finance",
+      "source_admission_status": "admitted",
+      "source_api_url": "https://search.worldbank.org/api/v3/wds?format=json&rows=1&os=0&lang_exact=English&enddate=2026-06-08&fl=display_title%2Cdocdt%2Curl%2Clang%2Cdocna%2Crepnb%2Cpdfurl",
+      "source_id": "world-bank-documents-reports-api",
+      "source_url": "https://documents.worldbank.org/curated/en/099060726202511445",
+      "source_verification_status": "verified",
+      "status": "generated",
+      "summary_path": "data/summaries/summary_world_bank_metadata_40107522.json",
+      "title": "World Bank metadata classified under Banking",
+      "topic": "Banking"
+    }
+  ],
+  "schema_version": "0.1",
   "source_constraints": {
-    "official_institutions_only": true,
-    "public_api_or_approved_machine_readable_feed_required": true,
-    "english_content_required": true,
     "citation_metadata_required": true,
+    "english_content_required": true,
     "excluded_source_categories": [
       "news_organisations",
       "commercial_data_vendors",
@@ -30,25 +83,10 @@
       "forums",
       "unofficial_aggregators",
       "unsourced_output"
-    ]
+    ],
+    "official_institutions_only": true,
+    "public_api_or_approved_machine_readable_feed_required": true
   },
-  "publication_gate": {
-    "all_sources_admitted": true,
-    "all_claims_cited": true,
-    "all_citations_have_metadata": true,
-    "no_speculation": true,
-    "no_opinion": true,
-    "no_source_match_no_output": true,
-    "validation_required_before_publication": true,
-    "units_and_methods_required_for_numerical_outputs": true,
-    "excluded_sources_prohibited": true
-  },
-  "milestone_exclusions": {
-    "api_connectors": false,
-    "ai_summarisation_code": false,
-    "databases": false,
-    "subscription_systems": false,
-    "scope_expansion": false
-  },
-  "reports": []
+  "status": "documentation_scaffold",
+  "truth_rule": "Truth is retrieved, not generated."
 }
