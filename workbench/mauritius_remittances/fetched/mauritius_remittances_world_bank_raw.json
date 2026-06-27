@@ -1,0 +1,1072 @@
+{
+  "retrieved_at_utc": "2026-06-24T13:31:09Z",
+  "api_url": "https://api.worldbank.org/v2/country/MUS/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&per_page=100",
+  "raw_response": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 100,
+      "total": 66,
+      "sourceid": "2",
+      "lastupdated": "2026-04-08"
+    },
+    [
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2024",
+        "value": 1.92045282657077,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2023",
+        "value": 2.24116402633618,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2022",
+        "value": 2.11679538005685,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2021",
+        "value": 2.3444626925632,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2020",
+        "value": 2.46174617403058,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2019",
+        "value": 2.17484841843275,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2018",
+        "value": 1.63543826413711,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2017",
+        "value": 1.80070695608706,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2016",
+        "value": 1.52117482334918,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2015",
+        "value": 1.83829874444038,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2014",
+        "value": 2.47185101855113,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2013",
+        "value": 0.00444630512057377,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2012",
+        "value": 0.00728464342091967,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2011",
+        "value": 0.00444431567945259,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2010",
+        "value": 0.00802741936590489,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2009",
+        "value": 0.00712895452016751,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2008",
+        "value": 0.00625711272909011,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2007",
+        "value": 0.00850014886099965,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2006",
+        "value": 0.0102105668722916,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2005",
+        "value": 0.00926375380011446,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2004",
+        "value": 0.0109444156600041,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2003",
+        "value": 0.00973242718038135,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2002",
+        "value": 0.0129212688404784,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2001",
+        "value": 0.0131711598897829,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2000",
+        "value": 3.74515302416488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1999",
+        "value": 4.04343907902975,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1998",
+        "value": 4.25953439992392,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1997",
+        "value": 3.95875793547802,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1996",
+        "value": 3.57024133744505,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1995",
+        "value": 3.22364659870154,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1994",
+        "value": 3.27227773970301,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "BX.TRF.PWKR.DT.GD.ZS",
+          "value": "Personal remittances, received (% of GDP)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  ]
+}
