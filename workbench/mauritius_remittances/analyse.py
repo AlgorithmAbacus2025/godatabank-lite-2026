@@ -3,11 +3,11 @@ import json
 
 BASE_DIR = Path(__file__).resolve().parent
 
-RAW_PATH = BASE_DIR / "fetched" / "mauritius_remittances_world_bank_raw.json"
+RAW_PATH = BASE_DIR / "fetched" / "raw.json"
 OUTPUT_DIR = BASE_DIR / "analysis"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-OUTPUT_PATH = OUTPUT_DIR / "mauritius_remittances_analysis.json"
+OUTPUT_PATH = OUTPUT_DIR / "analysis.json"
 
 with RAW_PATH.open("r", encoding="utf-8") as file:
     raw_file = json.load(file)

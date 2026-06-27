@@ -29,8 +29,8 @@ raw_output = {
     "raw_response": raw_data
 }
 
-raw_path = FETCHED_DIR / "mauritius_remittances_world_bank_raw.json"
-source_path = SOURCE_DIR / "mauritius_remittances_world_bank_source.json"
+raw_path = FETCHED_DIR / "raw.json"
+source_path = SOURCE_DIR / "source.json"
 
 if raw_path.exists():
     raise FileExistsError(f"Refusing to overwrite existing file: {raw_path}")

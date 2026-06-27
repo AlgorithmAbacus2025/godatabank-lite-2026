@@ -8,19 +8,19 @@ Manual verification note. Not for publication.
 
 Raw data file exists:
 
-`workbench/mauritius_remittances/fetched/mauritius_remittances_world_bank_raw.json`
+`workbench/mauritius_remittances/fetched/raw.json`
 
 Source record exists:
 
-`workbench/mauritius_remittances/source_records/mauritius_remittances_world_bank_source.json`
+`workbench/mauritius_remittances/source_records/source.json`
 
 Analysis file exists:
 
-`workbench/mauritius_remittances/analysis/mauritius_remittances_analysis.json`
+`workbench/mauritius_remittances/analysis/analysis.json`
 
 Draft report exists:
 
-`workbench/mauritius_remittances/draft_reports/mauritius_remittances_report.md`
+`workbench/mauritius_remittances/draft_reports/report.md`
 
 ## Source
 

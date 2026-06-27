@@ -1,5 +1,5 @@
 {
-  "source_file": "C:\\Users\\kmudh\\Documents\\GoDataBank-Lite-2026\\workbench\\fetched\\mauritius_remittances_world_bank_raw.json",
+  "source_file": "C:\\Users\\kmudh\\Documents\\GoDataBank-Lite-2026\\workbench\\mauritius_remittances\\fetched\\raw.json",
   "retrieved_at_utc": "2026-06-24T13:31:09Z",
   "api_url": "https://api.worldbank.org/v2/country/MUS/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&per_page=100",
   "world_bank_last_updated": "2026-04-08",
