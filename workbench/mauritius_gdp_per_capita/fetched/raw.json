@@ -1,0 +1,1072 @@
+{
+  "retrieved_at_utc": "2026-06-27T07:13:10Z",
+  "api_url": "https://api.worldbank.org/v2/country/MUS/indicator/NY.GDP.PCAP.CD?format=json&per_page=100",
+  "raw_response": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 100,
+      "total": 66,
+      "sourceid": "2",
+      "lastupdated": "2026-04-08"
+    },
+    [
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2024",
+        "value": 11990.7798944837,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2023",
+        "value": 11269.9684462139,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2022",
+        "value": 10246.5017455553,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2021",
+        "value": 9177.71195973013,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2020",
+        "value": 9135.84773751062,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2019",
+        "value": 11568.2533399824,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2018",
+        "value": 11818.7480619272,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2017",
+        "value": 10986.7034093005,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2016",
+        "value": 10095.1225574156,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2015",
+        "value": 9630.5437837507,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2014",
+        "value": 10490.3315563853,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2013",
+        "value": 9877.13865958834,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2012",
+        "value": 9421.52514098225,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2011",
+        "value": 9324.24232310496,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2010",
+        "value": 8113.17670740212,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2009",
+        "value": 7426.88645617593,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2008",
+        "value": 8140.50808595895,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2007",
+        "value": 6677.34962448608,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2006",
+        "value": 5784.22491883026,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2005",
+        "value": 5354.02974260642,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2004",
+        "value": 5460.60800184198,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2003",
+        "value": 4858.26575549747,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2002",
+        "value": 4073.06053055903,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2001",
+        "value": 3908.55694927435,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "2000",
+        "value": 3981.98343249582,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1999",
+        "value": 3745.69625069831,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1998",
+        "value": 3641.62142564086,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1997",
+        "value": 3695.73668844327,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1996",
+        "value": 3951.94494649336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1995",
+        "value": 3648.01649622256,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1994",
+        "value": 3240.38624662702,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1993",
+        "value": 3013.83313790492,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1992",
+        "value": 3013.23706337167,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1991",
+        "value": 2705.26648158805,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1990",
+        "value": 2539.92846467452,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1989",
+        "value": 2103.48802694458,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1988",
+        "value": 2073.59238787189,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1987",
+        "value": 1839.79109565422,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1986",
+        "value": 1441.71452837714,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1985",
+        "value": 1068.67359316099,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1984",
+        "value": 1041.83252378016,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1983",
+        "value": 1103.09124580137,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1982",
+        "value": 1101.15920527391,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1981",
+        "value": 1180.84070937438,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1980",
+        "value": 1187.35157080412,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1979",
+        "value": 1292.2014302482,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1978",
+        "value": 1102.34753691974,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1977",
+        "value": 905.949638747869,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1976",
+        "value": 787.098225962589,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1975",
+        "value": 754.833281472402,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1974",
+        "value": 762.940758670279,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1973",
+        "value": 467.480218496262,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1972",
+        "value": 373.996570209941,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1971",
+        "value": 299.604801832026,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1970",
+        "value": 271.338746980393,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1969",
+        "value": 272.713256163629,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1968",
+        "value": 258.734051896237,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1967",
+        "value": 304.163949585507,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1966",
+        "value": 295.955041673441,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1965",
+        "value": 305.47697280765,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1964",
+        "value": 297.284380211561,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1963",
+        "value": 353.11354761151,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1962",
+        "value": 282.342386236302,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1961",
+        "value": 281.683081448637,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "NY.GDP.PCAP.CD",
+          "value": "GDP per capita (current US$)"
+        },
+        "country": {
+          "id": "MU",
+          "value": "Mauritius"
+        },
+        "countryiso3code": "MUS",
+        "date": "1960",
+        "value": 238.251033437494,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  ]
+}
