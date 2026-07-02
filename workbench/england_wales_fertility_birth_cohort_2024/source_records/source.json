@@ -1,0 +1,18 @@
+{
+  "source_id": "ons-fertility-birth-cohort-england-wales-2024",
+  "institution": "Office for National Statistics",
+  "institution_type": "Official national statistical authority",
+  "release_title": "Fertility for those born in different years, England and Wales: 2024",
+  "release_date": "2026-06-10",
+  "bulletin_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/childbearingforwomenbornindifferentyearsenglandandwales/2024",
+  "dataset_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/childbearingforwomenbornindifferentyearsreferencetable/current",
+  "dataset_download_url": "https://www.ons.gov.uk/file?uri=%2Fpeoplepopulationandcommunity%2Fbirthsdeathsandmarriages%2Fconceptionandfertilityrates%2Fdatasets%2Fchildbearingforwomenbornindifferentyearsreferencetable%2Fcurrent%2Ffinalisingcohorttables2024finalforupload.xlsx",
+  "methodology_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/methodologies/childbearingforwomenbornindifferentyearsinenglandandwalesqmi",
+  "local_dataset_path": "workbench/england_wales_fertility_birth_cohort_2024/fetched/ons_fertility_birth_cohort_2024.xlsx",
+  "dataset_size_bytes": 686877,
+  "dataset_sha256": "FECC464EBEA5EE23116512C76AD7D5E7921FD6CF51A3A2C6E42E620078B37757",
+  "retrieved_at_utc": "2026-07-02T09:14:37Z",
+  "licence": "Open Government Licence v3.0, except where otherwise stated",
+  "admission_status": "approved_for_alis_light_report_v0.5",
+  "discovery_lead_used_as_evidence": false
+}

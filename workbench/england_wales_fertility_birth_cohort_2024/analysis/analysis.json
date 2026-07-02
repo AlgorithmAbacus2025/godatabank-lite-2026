@@ -1,0 +1,81 @@
+{
+  "release_title": "Fertility for those born in different years, England and Wales: 2024",
+  "release_date": "2026-06-10",
+  "observed_birth_registration_data_through": 2024,
+  "cohort_coverage": {
+    "observed_women_table_1a": "1920 to 2009",
+    "observed_and_projected_women_table_1b": "1920 to 2034",
+    "observed_men_table_5": "1949 to 2009",
+    "men_with_complete_cohort_history": "1949 to 1959"
+  },
+  "figures": [
+    {
+      "measure": "Completed family size, women born in 1925",
+      "value": 2.12,
+      "status": "observed",
+      "dataset_location": "Table 1a!AF14"
+    },
+    {
+      "measure": "Completed family size, women born in 1953",
+      "value": 2.05,
+      "status": "observed",
+      "dataset_location": "Table 1a!AF42"
+    },
+    {
+      "measure": "Completed family size, women born in 1979",
+      "value": 1.95,
+      "status": "observed",
+      "dataset_location": "Table 1a!AF68"
+    },
+    {
+      "measure": "Achieved family size through age 45, men born in 1979",
+      "value": 1.82,
+      "status": "observed_but_not_completed_cohort",
+      "dataset_location": "Table 5!AF40",
+      "note": "The exact-age 46 column includes births through the day before the 46th birthday."
+    },
+    {
+      "measure": "Completed family size, men born in 1959",
+      "value": 2.0,
+      "status": "observed",
+      "dataset_location": "Table 5!AZ20"
+    },
+    {
+      "measure": "Completed family size, women born in 1959",
+      "value": 1.98,
+      "status": "observed",
+      "dataset_location": "Table 1a!AF48"
+    },
+    {
+      "measure": "Projected completed family size, women born in 2008",
+      "value": 1.48,
+      "status": "projected_2024_based_npp_principal_projection",
+      "dataset_location": "Table 1b!AF98"
+    },
+    {
+      "measure": "Projected completed family size, girls born in 2026",
+      "value": 1.43,
+      "status": "projected_2024_based_npp_principal_projection",
+      "dataset_location": "Table 1b!AF116"
+    }
+  ],
+  "bulletin_only_figures": [
+    {
+      "measure": "Women born in 1979 who had no children",
+      "value_percent": 15.7,
+      "bulletin_section": "Main points and Age at childbirth through the generations"
+    },
+    {
+      "measure": "Age by which the 1979 cohort averaged one child per woman",
+      "value_years": 31,
+      "bulletin_section": "Main points and Age at childbirth through the generations"
+    },
+    {
+      "measure": "Age by which the 1979 cohort averaged one child per man",
+      "value_years": 33,
+      "bulletin_section": "Main points and Male fertility"
+    }
+  ],
+  "interpretation": "Observed completed family size for women fell across the selected 1925, 1953 and 1979 cohorts. The ONS principal projection shows a further decline for later female cohorts, but projections are scenarios rather than forecasts.",
+  "newsletter_used_as_evidence": false
+}
