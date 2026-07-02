@@ -1,0 +1,57 @@
+{
+  "source_id": "obr-welfare-trends-report-june-2026-cp-1634",
+  "topic": "UK welfare fraud and error trends",
+  "claims": [
+    {
+      "claim": "Overall welfare fraud and error rose from 3.1% of spending in 2019-20 to 4.3% during 2020-21 and 2021-22, then fell to 3.2%.",
+      "pdf_page": 8,
+      "printed_page": 3,
+      "section": "Executive summary, paragraph 1.1 and Chart 1.1",
+      "status": "verified"
+    },
+    {
+      "claim": "Universal Credit fraud and error rose from 9.4% of UC spending in 2019-20 to 14.7% in 2021-22, then fell to 8.5% in 2025-26.",
+      "pdf_page": 8,
+      "printed_page": 3,
+      "section": "Executive summary, paragraph 1.3",
+      "status": "verified"
+    },
+    {
+      "claim": "The Covid cohort fraud and error rate was 25.8% of spending in 2020-21 and fell to 8.9% in 2025-26.",
+      "pdf_pages": [9, 17],
+      "printed_pages": [4, 12],
+      "section": "Executive summary paragraph 1.4; Recent trends paragraph 2.8 and Chart 2.2",
+      "status": "verified"
+    },
+    {
+      "claim": "The Covid cohort means UC cases joining between 14 March 2020 and 27 February 2021.",
+      "pdf_pages": [9, 17],
+      "printed_pages": [4, 12],
+      "section": "Chart 1.2 and Chart 2.2 notes",
+      "status": "verified"
+    },
+    {
+      "claim": "OBR says the initially high Covid-cohort rate is likely primarily explained by pandemic operational easements, including relaxed claim checks and suspension of minimum-income-floor and gainfully-self-employed checks; the shock also increased self-employed UC cases.",
+      "pdf_page": 9,
+      "printed_page": 4,
+      "section": "Executive summary, paragraph 1.5",
+      "status": "verified_with_source_uncertainty_language_preserved"
+    },
+    {
+      "claim": "OBR plans to remove the previous assumption that the underlying propensity for UC fraud and error rises each forecast year.",
+      "pdf_pages": [10, 11],
+      "printed_pages": [5, 6],
+      "section": "Executive summary, paragraphs 1.9 and 1.10",
+      "status": "verified"
+    },
+    {
+      "claim": "Fraud and error data come from sampling exercises, evidence on underlying drivers is limited, and conclusions are uncertain.",
+      "pdf_page": 8,
+      "printed_page": 3,
+      "section": "Executive summary, paragraph 1.2",
+      "status": "verified"
+    }
+  ],
+  "interpretation": "The pandemic-period spike was concentrated in Universal Credit and especially among claims entering during the first pandemic year. Rates subsequently fell close to or below pre-pandemic levels, but OBR presents causal explanations and future judgements as uncertain.",
+  "claims_beyond_source_added": false
+}
