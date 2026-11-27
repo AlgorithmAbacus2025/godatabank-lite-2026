@@ -47,3 +47,7 @@ Searchable reports and subscriber briefings
 **GoDataBank Skeleton v0.1**
 
 This repository begins with governance, source admission rules, report templates, source registry placeholders, and backend structure for future API connectors.
+
+## Documentation
+
+Start with the [documentation index](docs/MASTER_INDEX.md) for the current repository orientation, governance references, proposed roadmap and historical archive. The original milestone statement above is historical, not a current release claim.
